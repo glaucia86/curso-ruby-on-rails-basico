@@ -5,6 +5,7 @@ O Curso tem como objetivo ensinar conceitos básicos do framework do Ruby: Rails
 
 ## Recursos Utilizados no Desenvolvimento:
 
-- Ruby on Rails ~
+- Ruby on Rails ~ 5.0.1;
+- Ruby ~ 2.2.6;
 
 ## Ementa dos conteúdos estudados durante o Curso:
