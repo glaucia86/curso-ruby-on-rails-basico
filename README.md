@@ -7,5 +7,7 @@ O Curso tem como objetivo ensinar conceitos básicos do framework do Ruby: Rails
 
 - Ruby on Rails ~ 5.0.1;
 - Ruby ~ 2.2.6;
+- Gem ~ 2.4.5.2
+
 
 ## Ementa dos conteúdos estudados durante o Curso:
