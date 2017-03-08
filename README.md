@@ -1,6 +1,6 @@
 # Curso Básico: Ruby on Rails by Jackson Pires
 
-Curso básico de Ruby on Rails do canal do Youtube - [Jackson Junior](https://www.youtube.com/watch?v=ZHPondVB9RQ&list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP).
+Curso básico de Ruby on Rails do canal do Youtube - [Jackson Pires](https://www.youtube.com/watch?v=ZHPondVB9RQ&list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP).
 O Curso tem como objetivo ensinar conceitos básicos do framework do Ruby: Rails.
 
 ## Recursos Utilizados no Desenvolvimento:
