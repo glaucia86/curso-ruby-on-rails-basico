@@ -3,3 +3,5 @@
  - Por convenção os nome dos modelos devem estar no plural:
     Ex.: rails generate scaffold customer name:string email:string birthday:date obs:text
 
+- Script para poder realizar a migração do bd: rake db:migrate
+
